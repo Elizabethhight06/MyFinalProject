@@ -127,11 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="data.cpp" />
     <ClCompile Include="main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="data.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Downloads\kjv_data.txt" />
